@@ -8,7 +8,7 @@ jQuery(window).resize(function() {
 	responsiveImages();
 });
 
-//Kick ass responsive height function
+//Kick ass responsive image function
 function responsiveImages() {
 	
 	//Find all res-height-containers
