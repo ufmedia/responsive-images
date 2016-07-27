@@ -15,6 +15,7 @@ Setup
 
   The script will only function betweeen these two break points, ie window with in px. The default values are 781 & 5001 respectivly.
 
+
 The class 'switch-vert-max' will be added to the image once the height of the image no longer fills the div and the window width is between the two break points.
 
 
